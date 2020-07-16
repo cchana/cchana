@@ -5,7 +5,7 @@ My name is Charanjit Chana, working on web sites and web applications since 2005
 - ⚡ My [portfolio](https://charanj.it)
 - 🔭 I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
 - 🤔 Ask me about PHP & CSS
-- 💬 My [tweets][https://twitter.com/cchana]
+- 💬 My [tweets](https://twitter.com/cchana)
 - 😄 Pronouns: He/Him
 
 <!--
