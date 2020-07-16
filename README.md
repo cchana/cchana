@@ -2,9 +2,16 @@
 
 <!--
 **cchana/cchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
+- ⚡ My [portfolio](https://charanj.it)
+- 🔭 I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
+- 💬 Ask me about PHP & CSS
+- 😄 Pronouns: He/Him
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
