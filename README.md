@@ -1,14 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**cchana/cchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
+My name is Charanjit Chana, working on web sites and web applications since 2005.
 
 - ⚡ My [portfolio](https://charanj.it)
 - 🔭 I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
-- 💬 Ask me about PHP & CSS
+- 🤔 Ask me about PHP & CSS
+- 💬 My [tweets][https://twitter.com/cchana]
 - 😄 Pronouns: He/Him
 
 <!--
