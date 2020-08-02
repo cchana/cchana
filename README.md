@@ -1,14 +1,14 @@
-## Hello! 👋
+# Hello! 👋
 
 My name is [Charanjit Chana](https://charanj.it), working on web sites and web applications since 2005.
 
-### About
+## About
 
 - 🔭 I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
 - 🤔 Ask me about PHP & CSS
 - 😄 Pronouns: He/Him
 
-### Say hi
+## Say hi
 
 Get in touch via [Twitter](https://twitter.com/cchana).
 
