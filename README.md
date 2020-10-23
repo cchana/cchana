@@ -1,16 +1,15 @@
 # Hello! 👋
 
-My name is [Charanjit Chana](https://charanj.it), working on web sites and web applications since 2005.
+My name is [Charanjit Chana](https://charanj.it), Head of Development at Maglabs. I spent 15 years working across the stack.
 
 ## About
 
-- 🔭 I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
-- 🤔 Ask me about PHP & CSS
-- 😄 Pronouns: He/Him
+- 🔭 In my spare time I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
+- 💬 Ask me about PHP & OOCSS (LESS/SASS)
 
 ## Say hi
 
-Get in touch via [Twitter](https://twitter.com/cchana).
+📫 Get in touch via [Twitter](https://twitter.com/cchana).
 
 <!--
 - 🔭 I’m currently working on ...
