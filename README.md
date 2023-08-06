@@ -4,8 +4,9 @@ My name is [Charanjit Chana](https://charanj.it), Head of Development at Maglabs
 
 ## About
 
-- 🔭 In my spare time I’m currently working on [1 Thing A Week](https://www.1thingaweek.com) and [SITEJOY](https://www.sitejoy.dev)
+- 🔭 In my spare time I’m currently working on [1 Thing A Week](https://www.1thingaweek.com), [Good Gear Club](https://www.goodgear.club) and [SITEJOY](https://www.sitejoy.dev)
 - 💬 Ask me about PHP & OOCSS (LESS/SASS)
+- Amateur [photographer](https://instagram.com/cchana)
 
 ## Say hi
 
